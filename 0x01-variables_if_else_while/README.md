@@ -9,3 +9,4 @@ File 7-print_tebahpla.c is a program that prints the lowercase alphabet in rever
 File 8-print_base16.c is a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 File 9-print_comb.c is a program that prints all possible combinations of single-digit numbers.
 File 100-print_comb3.c is a program that prints all possible different combinations of two digits.
+File 101-print_comb4.c is a program that prints all possible different combinations of three digits.
